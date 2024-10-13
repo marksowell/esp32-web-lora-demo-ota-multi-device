@@ -37,6 +37,8 @@ ESP32 Web + LoRa Demo with OTA &amp; Multi-Device Support. This project demonstr
 - **Jumper wires or UEXT connectors** to connect the LoRa modules to the ESP32 boards
 - **Power** (PoE or USB)
 
+  <img src="./images/esp32-poe-iso.png" alt="esp32-poe-iso" width="300"/>  
+
 ## Software Requirements
 
 - **Arduino IDE** or **PlatformIO**
