@@ -17,12 +17,12 @@ ESP32 Web + LoRa Demo with OTA &amp; Multi-Device Support. This project demonstr
 
 ## Features
 
-- **LoRa Communication**: Send and receive messages between two devices using LoRa technology.  
-  
-  <img src="./images/Lora_Message_Modal.png" alt="Lora Message Modal" width="400"/>  
 - **Web Interface**: User-friendly interface to send messages, view logs, and configure settings.
   
   <img src="./images/Index.png" alt="Index" width="400"/>  
+- **LoRa Communication**: Send and receive messages between two devices using LoRa technology.  
+  
+  <img src="./images/Lora_Message_Modal.png" alt="Lora Message Modal" width="400"/>  
 - **OTA Updates**: Over-the-air firmware updates using ArduinoOTA.
 - **Logging**: System, HTTP, and LoRa logs stored with timestamps.
 - **Persistent Settings**: Device settings stored using Preferences library. 
