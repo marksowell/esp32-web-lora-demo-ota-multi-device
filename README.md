@@ -109,7 +109,7 @@ Use the Library Manager to install the required libraries.
 ### Device Settings
 
 - **Device Number**: Unique identifier for the device.
-- **Site ID**: Identifier to match messages between devices (default is `den01`).
+- **Site ID**: Identifier to match messages between devices (default is `default_site`).
 - **Logging Settings**: Enable or disable system, HTTP, and LoRa logs.
 
 ### Accessing the Web Interface
